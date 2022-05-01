@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PABAIDU", "PABAIDU.csproj", "{9E886ED6-21E6-423F-BCD6-D3191F632FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "网络请求教程", "..\网络请求教程\网络请求教程.csproj", "{44CD1952-AA08-47E4-97E1-27786770CC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E886ED6-21E6-423F-BCD6-D3191F632FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E886ED6-21E6-423F-BCD6-D3191F632FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E886ED6-21E6-423F-BCD6-D3191F632FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E886ED6-21E6-423F-BCD6-D3191F632FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CD1952-AA08-47E4-97E1-27786770CC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CD1952-AA08-47E4-97E1-27786770CC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CD1952-AA08-47E4-97E1-27786770CC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CD1952-AA08-47E4-97E1-27786770CC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A1E92C-9B41-4E54-A65E-83D9FA6BA4D5}
+	EndGlobalSection
+EndGlobal
